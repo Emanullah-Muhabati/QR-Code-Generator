@@ -2,7 +2,7 @@
 
 A simple and interactive **QR Code Generator** built with **HTML, CSS, and JavaScript**.
 
-![QR Code Generator Screenshot](assets/demo.png)
+![QR Code Generator Screenshot](./qr%20code.png)
 
 ---
 
@@ -17,7 +17,7 @@ A simple and interactive **QR Code Generator** built with **HTML, CSS, and JavaS
 ## 🎥 Demo
 ![QR Code Generator Demo](assets/demo.gif)
 
-[Watch the full demo video](link-to-your-video)
+[Watch the full demo video](https://www.linkedin.com/posts/emanullah-muhabati_excited-to-share-my-second-project-a-activity-7422624036712529920-RKKc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF8JcB0BSeiKq0om1_0T-ty7d87URTxkGIk)
 
 ---
 
